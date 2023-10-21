@@ -1,0 +1,33 @@
+body {
+    background-color: #f2f2f2;
+  }
+
+  h1 {
+    text-align: center;
+    color: #333;
+    background-color: #ffcc00;
+    padding: 20px;
+  }
+
+  p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+
+  h2 {
+    text-align: center;
+    color: #333;
+    margin-top: 40px;
+  }
+
+  .list-group {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  img{
+      width: 100px;
+      height: 100px;
+      float: left;
+      margin-right: 10px;
+  }

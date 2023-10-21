@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .back-button {
+    margin-top: 20px;
+  }
+  
+  h1,h2 {
+    background-color: rgb(139, 218, 139);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+    width: fit-content;
+  }
+  .carousel-item img {
+    object-fit: cover;
+    max-height: 400px;
+    margin: 0 auto;
+  }
+  .tipo-caimanes {
+    background-color: rgb(209, 235, 219);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .tipo-caimanes img {
+    max-width: 50%;
+    margin-right: 20px;
+  }
+  .img-container{
+      display: flex;
+      justify-content: center
+  }
+  .img-container img {
+    height: 200px;
+    width: 200px;
+  }
