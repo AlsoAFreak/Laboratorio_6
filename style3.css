@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5F5F5;
+    margin: 0;
+    padding: 0;
+}
+.titulo{
+  background-color: #c07b49;
+  color: #F5F5F5;
+  padding: 20px;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
+}
+
+#carrusel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+
+#carrusel img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 10px;
+}
+
+.descripcion {
+    background-color: #8B4513;
+    color: #FFF;
+    padding: 20px;
+    text-align: justify;
+    margin: 30px;
+}
+.fichas {
+width: 100%;
+min-width:600px;
+height: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.card {
+margin-bottom: 20px;
+width: 18rem;
+}
+.navbar {
+    background-color: #333;
+  }
+
+  .navbar-brand {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 18px;
+  }
